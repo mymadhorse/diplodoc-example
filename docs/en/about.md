@@ -1,12 +1,12 @@
 # Basic "About page"  - EDITED BY ME FOREVER
 
-This is an example for basic documenation project.
+EDITED BY ME FOREVER   This is an example for basic documenation project.
 It contains simple structure with couple of pages (this page, another page) and nested sub-section. 
 
-Diplodoc provides you with unique name how this project can be reached on https://diplodoc.com like 
+EDITED BY ME FOREVER    Diplodoc provides you with unique name how this project can be reached on https://diplodoc.com like 
 "https://common---gh-aje0e4eg9hffg001r5e5.viewer.diplodoc.com/en/" 
 
-If you would like to extend your project - please refer to [YFM Project Organization guide](https://diplodoc.com/docs/en/project/)
+EDITED BY ME FOREVER    If you would like to extend your project - please refer to [YFM Project Organization guide](https://diplodoc.com/docs/en/project/)
 
 All changes for this project can be done within you public github repository called "diplodoc-example/docs". 
 To make changes and apply them: 
